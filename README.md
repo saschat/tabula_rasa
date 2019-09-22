@@ -1,4 +1,4 @@
-# tabula raza
+# Tabula Rasa
 
 ## Frontend
 
