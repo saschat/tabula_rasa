@@ -1,22 +1,8 @@
 # Tabula Rasa
 
-## Frontend
-
 ### Run
 
-```
-$ parcel run index.html
-```
-
-### Build
-
-```
-$ parcel build index.html
-```
-
-## Backend
-
-### Run
+Make sure to build dashboard first.
 
 ```
 $ cargo run

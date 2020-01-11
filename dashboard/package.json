@@ -1,10 +1,17 @@
 {
+  "name": "dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "parcel run index.html",
+    "build": "parcel build index.html --public-url ./dashboard/"
+  },
   "devDependencies": {
     "@vue/component-compiler-utils": "^3.0.0",
     "cssnano": "^4.1.10",
     "sass": "^1.22.12",
     "typescript": "^3.6.3",
-    "vue-template-compiler": "^2.6.10"
+    "vue-template-compiler": "^2.6.11"
   },
   "dependencies": {
     "vue": "^2.6.10",
